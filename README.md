@@ -1,3 +1,8 @@
+参考资料  
+[参考部署地址](https://juejin.im/post/5cb45f77e51d456e693f48b0)   
+学习后实现demo效果  
+[预览地址](https://scalerone.github.io/gitpagetest/) 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -67,7 +72,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-参考资料  
-[参考部署地址](https://juejin.im/post/5cb45f77e51d456e693f48b0)   
-学习后实现demo效果  
-[预览地址](https://scalerone.github.io/gitpagetest/) 
