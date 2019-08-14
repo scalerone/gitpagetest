@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/gitpagetest/static/css/main.2cce8147.chunk.css",
+    "main.js": "/gitpagetest/static/js/main.c6c1601d.chunk.js",
+    "main.js.map": "/gitpagetest/static/js/main.c6c1601d.chunk.js.map",
+    "runtime~main.js": "/gitpagetest/static/js/runtime~main.e298d563.js",
+    "runtime~main.js.map": "/gitpagetest/static/js/runtime~main.e298d563.js.map",
+    "static/css/2.266e55a5.chunk.css": "/gitpagetest/static/css/2.266e55a5.chunk.css",
+    "static/js/2.d0d3b1fe.chunk.js": "/gitpagetest/static/js/2.d0d3b1fe.chunk.js",
+    "static/js/2.d0d3b1fe.chunk.js.map": "/gitpagetest/static/js/2.d0d3b1fe.chunk.js.map",
+    "index.html": "/gitpagetest/index.html",
+    "precache-manifest.6e555d7d9349381ac2e99b0b4706b0c6.js": "/gitpagetest/precache-manifest.6e555d7d9349381ac2e99b0b4706b0c6.js",
+    "service-worker.js": "/gitpagetest/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/gitpagetest/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.2cce8147.chunk.css.map": "/gitpagetest/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/gitpagetest/static/media/logo.5d5d9eef.svg"
+  }
+}
